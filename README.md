@@ -1,4 +1,4 @@
-[![Header](https://github.com/softboy17/softboy17/blob/main/assets/header.gif)](){:height="500px" width="500px"}
+![Header](https://github.com/softboy17/softboy17/blob/main/assets/header.gif){:height="500px" width="500px"}
 
 # Hello I am a beginner Software Engineer. My name is Riskeldi 
 
