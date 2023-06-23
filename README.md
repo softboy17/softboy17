@@ -1,3 +1,5 @@
+[![Header](https://github.com/softboy17/softboy17/blob/main/assets/header.gif)]()
+
 # Hello I am a beginner Software Engineer. My name is Riskeldi 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ваш-профиль)
@@ -10,7 +12,7 @@
 [![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](#)
 
-Привет! Я {ваше имя}, разработчик программного обеспечения с опытом в HTML, CSS, Node.js, Firebase, React.js и Redux.
+Привет! Я Рыскелди, разработчик программного обеспечения с опытом в HTML, CSS, Node.js, Firebase, React.js и Redux.
 
 ## Навыки
 
@@ -21,14 +23,6 @@
 - React.js
 - Redux
 
-## Проекты
 
-- [Название проекта 1](ссылка на проект) - Краткое описание проекта.
-- [Название проекта 2](ссылка на проект) - Краткое описание проекта.
-- [Название проекта 3](ссылка на проект) - Краткое описание проекта.
-
-## Связаться со мной
-
-Вы можете связаться со мной через [LinkedIn](https://www.linkedin.com/in/ваш-профиль) или посетить мой [портфолио](https://ваш-портфолио), чтобы узнать больше о моих проектах.
 
 
