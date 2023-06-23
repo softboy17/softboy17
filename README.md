@@ -10,9 +10,9 @@
 [![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](#)
 
-Привет! Я Рыскелди, разработчик программного обеспечения с опытом в HTML, CSS, Node.js, Firebase, React.js и Redux.
+Hello! I'm Ryskeldi, a software developer with experience in HTML, CSS, Node.js, Firebase, React.js and Redux.
 
-## Навыки
+## Skills
 
 - HTML
 - CSS
@@ -27,6 +27,12 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](#)
+
+## Connecting with me
+
+You can contact me through the following social networks::
+
+- [Telegram](https://t.me/rskld_0)
 
 
 
