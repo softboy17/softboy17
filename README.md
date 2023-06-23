@@ -4,7 +4,6 @@
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-Firebase-#8f67a8ff
-logo=javascript&logoColor=white&style=flat
-)
+logo=javascript&logoColor=white&style=flat)
 
 Follow me
