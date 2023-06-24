@@ -9,6 +9,8 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](#)
 [![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+
 
 Hello! I'm Ryskeldi, a software developer with experience in HTML, CSS, Node.js, Firebase, React.js and Redux.
 
@@ -20,6 +22,7 @@ Hello! I'm Ryskeldi, a software developer with experience in HTML, CSS, Node.js,
 - Firebase
 - React.js
 - Redux
+- JavaScript ES6
 
 ## Leisure time
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
@@ -27,6 +30,9 @@ Hello! I'm Ryskeldi, a software developer with experience in HTML, CSS, Node.js,
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](#)
+[![CS:GO](https://img.shields.io/badge/-CS:GO-000000?style=flat-square&logo=counter-strike&logoColor=white)](#)
+[![Fortnite](https://img.shields.io/badge/-Fortnite-181717?style=flat-square&logo=fortnite&logoColor=white)](#)
+
 
 ## Connecting with me
 
