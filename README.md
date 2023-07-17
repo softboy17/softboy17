@@ -1,6 +1,6 @@
-<center>
+<div style = "display: flex; justify-content: center;">
   <img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="600" alt="Header" >
-</center>
+</div>
 
 
 # Hello I am a beginner Software Engineer. My name is Riskeldi 
