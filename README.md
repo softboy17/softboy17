@@ -1,4 +1,4 @@
-<img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="400" alt="Header">
+<img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="600" alt="Header">
 
 # Hello I am a beginner Software Engineer. My name is Riskeldi 
 
