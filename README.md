@@ -1,5 +1,8 @@
 <div style = "display: flex; justify-content: center; width= 100%">
-  <img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="600" alt="Header" >
+  <center>
+    <img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="600" alt="Header" >
+  </center>
+  
 </div>
 
 
