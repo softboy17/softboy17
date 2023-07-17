@@ -11,8 +11,7 @@
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 
-
-Hello! I'm Ryskeldi, a software developer with experience in HTML, CSS, Node.js, Firebase, React.js and Redux.
+Hello! I'm Ryskeldi, a software developer with experience in HTML, CSS, Node.js, Firebase, React.js, and Redux.
 
 ## Skills
 
@@ -33,12 +32,14 @@ Hello! I'm Ryskeldi, a software developer with experience in HTML, CSS, Node.js,
 [![CS:GO](https://img.shields.io/badge/-CS:GO-000000?style=flat-square&logo=counter-strike&logoColor=white)](#)
 [![Fortnite](https://img.shields.io/badge/-Fortnite-181717?style=flat-square&logo=fortnite&logoColor=white)](#)
 
-
 ## Connecting with me
 
-You can contact me through the following social networks::
+You can contact me through the following social networks:
 
 - [Telegram](https://t.me/rskld_0)
+
+<!-- Image resized to 400px width -->
+<img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="400" alt="Header">
 
 
 
