@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="400" alt="Header">
+  <img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="1000" alt="Header">
 </div>
 
 
