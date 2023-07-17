@@ -1,4 +1,4 @@
-![Header](https://github.com/softboy17/softboy17/blob/main/assets/header.gif)
+![Header](https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif)
 
 # Hello I am a beginner Software Engineer. My name is Riskeldi 
 
