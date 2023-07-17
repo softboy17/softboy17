@@ -1,4 +1,4 @@
-![Header](https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif)
+<img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="400" alt="Header">
 
 # Hello I am a beginner Software Engineer. My name is Riskeldi 
 
@@ -38,8 +38,6 @@ You can contact me through the following social networks:
 
 - [Telegram](https://t.me/rskld_0)
 
-<!-- Image resized to 400px width -->
-<img src="https://github.com/softboy17/softboy17/blob/main/assets/helloWorld.gif" width="400" alt="Header">
 
 
 
